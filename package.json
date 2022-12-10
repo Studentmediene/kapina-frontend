@@ -81,7 +81,7 @@
     "@zeit/next-sass": "^1.0.1",
     "chalk": "^2.3.2",
     "classnames": "^2.2.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^4.2.0",
     "immutable": "^3.8.2",
     "ip": "^1.1.5",
